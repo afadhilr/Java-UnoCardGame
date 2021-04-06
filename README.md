@@ -16,7 +16,7 @@ Namun, jika ingin melakukan running source code silahkan ikuti langkah berikut:
 1. Download dan Install Software Apache NetBeans IDE 12.3
 2. Extract file .zip pada desktop (ga tau napa harus desktop)
 3. Import file .zip yang sudah diextract pada Apache Netbeans
-4. Klik pada main.java
+4. Klik pada Main.java
 5. Klik RUN!!
 6. Jika gambar kartu tidak muncul, coba pindahkan file All cards ke desktop lalu ubah directory pada source code di GameStage.java, PopUp.java, PickColorFrame.Java
 7. Done! 
